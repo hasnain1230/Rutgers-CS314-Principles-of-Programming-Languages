@@ -1,0 +1,2 @@
+What if the words in the file are formatted like this?
+"accePT eXcEPT Ad adD adViCE AdvISe Aid aIdE aiL aLe aIr hEiR AIslE I'Ll ISLe AlTAR aLTer ASSeNT aSCent Ate EiGhT etc ETC"
